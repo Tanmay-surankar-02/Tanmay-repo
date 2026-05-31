@@ -1,2 +1,2 @@
 # Tanmay-repo
-this is my first repository in  git-hub for demo
+this is my first repository in  git-hub for demo.
